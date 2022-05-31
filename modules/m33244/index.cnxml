@@ -1,0 +1,106 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Preparation Before the Connexions Authoring Workshop</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33244</md:content-id>
+  <md:title>Preparation Before the Connexions Authoring Workshop</md:title>
+  <md:abstract>A link to some pre-workshop reading.  Preparation steps for students using these materials as a workshop.</md:abstract>
+  <md:uuid>109e3bcf-75fc-4161-b409-a359c73cdc34</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://cnx.org/member_profile/kbusbee" strength="3">Member Profile: Kenneth Leroy Busbee</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/col10413/latest/" strength="3">Introduction to Open Educational Resources</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id16336166">
+      <title>Preface</title>
+      <para id="id16486246">The modules in this collection are designed for either self-study or as a major part of a 4 hour in-person workshop. They are designed specifically to guide new authors in the process of creating several modules and then organizing them into a collection. Existing materials within the Connexions web site often explain authoring in a more technical manner than what most new authors desire. Thus, a less technical and more user friendly step by step instructions/training is needed to guide a new author using Connexions. Many new authors will have limited technical computer training; however they should be able to create fantastic OER materials using the convenience of uploading a Microsoft Word document to create a basic Connexions module. </para>
+    </section>
+    <section id="id20614426">
+      <title>Learning Objectives</title>
+      <para id="id4174874">This workshop will specifically accomplish the task of helping you become a Connexions author by using Microsoft Word documents as the fundamental building and editing method for creating Connexions modules. During the workshop you will:</para>
+      <list id="id20451274" list-type="enumerated" number-style="arabic">
+        <item>Open a Connexions account</item>
+        <item>Build an author profile</item>
+        <item>Prepare a Microsoft Word document for conversion into a Connexions module</item>
+        <item>Create a Connexions module</item>
+        <item>Understand how modules will affect the creation of a Connexions collection</item>
+      </list>
+    </section>
+    <section id="id15095710">
+      <title>Prerequisite Knowledge – General Reading</title>
+      <para id="id11208229">A prerequisite link (box in the upper right corner if viewing this on the Internet) is provided to “Introduction to Open Educational Resources” collection number “col10413” within the Connexions website. The material written by Judy Baker is an excellent review of many issues of concern to new authors. If you are completely unfamiliar to the Open Educational Resources (OER) or OpenCourseWare (OCW) movement within the educational community; you should spend an adequate amount of time (usually several hours) learning this material. If moderately familiar, you should spend about 1 hour quickly covering the material. You can return and review the material in more detail as needed. </para>
+      <para id="id16745214">The third module should be specifically viewed. It’s title: OER Fair Use, Copyright, and TEACH Act. <quote display="inline">A basic understanding of copyright, fair use, the TEACH Act, and intellectual property is necessary before using and developing OER in order to minimize the risk of violating the law.</quote><footnote id="id8053628">Baker, Judy. <emphasis effect="underline">OER Fair Use, Copyright, and TEACH Act</emphasis>. Connexions. 7 May 2007 &lt;http://cnx.org/content/m14465/1.3/&gt;.</footnote> Many college professors step over the line and violate the copyrights of authors. As you are embarking on your own journey as an author, please make sure that you understand how to include existing materials without violating another author’s copyright. </para>
+      <para id="id14139332">This prerequisite material may be covered in a training course available to you at your institution. If so, you should consider taking that course before embarking on the path to becoming an OER author. </para>
+    </section>
+    <section id="id11104336">
+      <title>Knowledge Chunks</title>
+      <para id="id13914282">The concept of a “knowledge chunk” is to divide learning materials into small units that cover or focus on a single topic. The following two items help explain this concept.</para>
+      <section id="id17117681">
+        <title>Learning Objects</title>
+        <para id="id20384657">
+          <quote id="id20384657_quote" display="block">Learning objects are a new way of thinking about learning content. Traditionally, content comes in a several hour chunk. Learning objects are much smaller units of learning, typically ranging from 2 minutes to 15 minutes. </quote>
+          <quote id="id13548927_quote" display="block">Are <emphasis effect="bold">self-contained – </emphasis>each learning object can be taken independently</quote>
+          <quote id="id8833839_quote" display="block">Are <emphasis effect="bold">reusable</emphasis> – a single learning object may be used in multiple contexts for multiple purposes</quote>
+          <quote id="id20810906_quote" display="block">Can be<emphasis effect="bold"> aggregated</emphasis> – learning objects can be grouped into larger collections of content, including traditional course structures</quote>
+          <quote id="id16780063_quote" display="block">Are <emphasis effect="bold">tagged with metadata</emphasis> – every learning object has descriptive information allowing it to be easily found by a search<footnote id="id16778650">Beck, Robert J., "<link url="http://www4.uwm.edu/cie/learning_objects.cfm?gid=56">What Are Learning Objects?</link>", <emphasis effect="italics">Learning Objects</emphasis>, Center for International Education, University of Wisconsin-Milwaukee, <link url="http://www4.uwm.edu/cie/learning_objects.cfm?gid=56">http://www4.uwm.edu/cie/learning_objects.cfm?gid=56</link>, retrieved 2008-04-29 </footnote></quote>
+        </para>
+      </section>
+      <section id="id6981230">
+        <title>What is a Module?</title>
+        <para id="id17140601">
+          <quote id="id17140601_quote" display="block">A module is the basic building block of a Connexions course, textbook, or other type of collection. You can think of it as a small knowledge chunk that addresses a single topic or a specific aspect of a topic. Every author determines the size of their module, ranging from a few paragraphs to an entire textbook chapter. To a student or reader viewing a course or collection, a module is simply a web page in the collection. Modules allow readers to follow the information path arranged by the author or instructor or to branch off and discover their own path. To an instructor putting a collection together, having topics in different modules allows easy selection and arrangement of the information. An instructor can include existing modules from other courses or other academic disciplines that are important to the presentation of the course subject.<footnote id="id18859775">Connexions, Mark Husband, and Adan Galvan. <emphasis effect="underline">Editing Modules</emphasis>. Connexions. 12 Aug. 2009 &lt;http://cnx.org/content/m10887/2.28/&gt;.</footnote></quote>
+        </para>
+      </section>
+    </section>
+    <section id="id16892194">
+      <title>Content Preparation before the Workshop</title>
+      <section id="id17325598">
+        <title>Module Content</title>
+        <para id="id16403221">You need to prepare some subject matter content before you try to create a Connexions module. We suggest that you create two or three small knowledge chunks where each one addresses a single topic. Don’t worry about how they will be transformed into Connexions modules. There are two word processing don’ts:</para>
+        <list id="id16179538" list-type="bulleted">
+          <item>Do not use <code display="inline">cntl_Enter</code> as a break. They don’t import into Connexions.</item>
+          <item>Do not use tabs. They also do not import into Connexions.</item>
+        </list>
+        <para id="id11421883">Additionally, for each knowledge chunk that will become a module create:</para>
+        <list id="id9105001" list-type="bulleted">
+          <item>a title line</item>
+          <item>a one or two sentence summary</item>
+        </list>
+        <para id="id17140793">I find it easiest to use an Excel spreadsheet for keeping track of modules that I am creating. It allows me to prepare the titles for the modules and their summary information as I prepare the knowledge chunks. The titles and summaries can then be easily copied and pasted as needed when building the modules within Connexions.</para>
+        <para id="id17766994">
+          <figure id="id16137737">
+            <media id="id16137737_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics1-f76e.jpg" id="id16137737__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>Spreadsheet example for creating titles and summaries.</caption>
+          </figure>
+        </para>
+        <para id="id12700360">It is important that you do this before any in-person workshop. During a workshop you will not have time to create or organize your content into knowledge chunks.</para>
+      </section>
+      <section id="id21418069">
+        <title>Picture</title>
+        <para id="id18696709">Using your picture processing skills; modify a picture of yourself cropping it square. It should be no greater than 150 by 150 pixels on each side. Usually this file is stored in a .jpg format.</para>
+        <note id="id18758492" type="Note">The Connexions web site will shrink your picture to fit its allocated space; thus, to avoid distortion, you should make sure to crop the picture square. </note>
+      </section>
+      <section id="id13707525">
+        <title>Short Biographical Sketch</title>
+        <para id="id14499609">Prepare a short biography about yourself. Information should include your current job, past employment, educational and professional attainments, etc.</para>
+      </section>
+      <section id="id15593407">
+        <title>Example</title>
+        <para id="id11047032">A link is provided (in the box at the upper right corner of this module’s page) to my “Member Profile” (for Kenneth Leroy Busbee) at Connexions. You will be using your picture and biography to create your “Member Profile” when you create your Connexions account. Again, during an in-person workshop you will not have time to prepare these materials, thus: please do them ahead of time.</para>
+        <para id="id18613200">
+          <emphasis effect="bold">Remember to bring these electronic files with you (usually on a flash drive) to any in-person workshop.</emphasis>
+        </para>
+      </section>
+    </section>
+  </content>
+</document>

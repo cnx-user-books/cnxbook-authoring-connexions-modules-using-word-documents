@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Creating Workgroups within Connexions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33245</md:content-id>
+  <md:title>Creating Workgroups within Connexions</md:title>
+  <md:abstract>General discussion about workgroups and basic instructions for creating a workgroup.</md:abstract>
+  <md:uuid>25667f74-03b5-4370-aa9a-7d2f3694b821</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/help/authoring/authorguide" strength="2">New Author Guide</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id4924082">
+      <title>Personal Workspace</title>
+      <para id="id4941185">At first you will only have only a few modules and you can use your “Personal Workspace” for the storage location of your modules. However, as your numbers of modules grow, you will want to organize your modules into various projects or folders. The creation of workgroups allows you to organize your modules and collections.</para>
+    </section>
+    <section id="id5273756">
+      <title>Workgroups</title>
+      <para id="id3534880">You can see from the slide below that by clicking on “MyCNX” and selecting “Create a Workgroup” you are able to create areas by giving them a name and some general information. I have created several workgroups and the one highlighted in green is the workgroup for the modules and the collection associated with this workshop. </para>
+      <figure id="id5228261">
+        <media id="id5228261_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-c3ea.jpg" id="id5228261__onlineimage" height="450" width="600"/>
+        </media>
+        <caption>Creating Workgroups</caption>
+      </figure>
+      <note id="id7382889" type="Note">You might want to keep the workgroup names relatively short. They will appear better in the menu of “SHARED WORKGROUPS:”.</note>
+      <section id="id5304582">
+        <title>Simple Organization</title>
+        <para id="id4913442">Most new authors will create workgroups for simple organization of the modules and collections that they are working on. That is why I have four workgroups.</para>
+      </section>
+      <section id="id5297840">
+        <title>Shared Access for Collaborative Efforts</title>
+        <para id="id4270806">Another reason to create a workgroup is to allow shared access to other authors. Thus, several authors can work on a group of modules that is usually built into a collection. This is one of the collaborative benefits of the Connexions Project. The lead author will build a workgroup and share it with one or more authors. The co-authors can modify any modules or collections in the shared workgroup. </para>
+        <para id="id5381810">Additional information about sharing workgroups is in the link provided (in the box at the upper right corner of this module’s page) for the “New Author Guide” within the “Authoring” section of the “Help” tab.</para>
+      </section>
+    </section>
+  </content>
+</document>

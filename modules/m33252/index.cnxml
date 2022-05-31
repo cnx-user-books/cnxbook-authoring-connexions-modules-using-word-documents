@@ -1,0 +1,97 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>An Example of a Connexions Module Created by a Word Document</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33252</md:content-id>
+  <md:title>An Example of a Connexions Module Created by a Word Document</md:title>
+  <md:abstract>The results of creating a Connexions module from a Word document specifically prepared for this collection.</md:abstract>
+  <md:uuid>236e765b-881e-419a-a6b4-75c97ca14125</md:uuid>
+</metadata>
+<content>
+    <section id="id1166109982718">
+      <title>Flying</title>
+      <section id="id1166109974879">
+        <title>Historical View of Flying</title>
+        <para id="id1166109995148">For centuries man has looked to the sky and with awe wondered what it would be like to fly. We even have some <emphasis effect="italics">jokes</emphasis> about flying that include other animals. <quote display="inline">When pigs fly!</quote> is old expression related to the temperature in <term>Hades</term> getting cold. The implication is that it will never happen.</para>
+        <note id="id8935069" type="Note">The Wright brothers were the first humans to fly on December 17, 1903.</note>
+        <para id="id3910522">Since then many methods of humans flying have occurred. Some are:</para>
+        <list id="id1166109988566" list-type="bulleted">
+          <item>Planes</item>
+          <item>Helicopters</item>
+          <item>Rockets</item>
+          <item>Hang Gliders</item>
+        </list>
+      </section>
+      <section id="id1166109906704">
+        <title>Things that Fly</title>
+        <para id="id1166107014392">Many things fly and the top five as recorded in our <emphasis effect="bold">fictitious</emphasis> poll include:</para>
+        <list id="id1166109964965" list-type="enumerated" number-style="arabic">
+          <item>Birds</item>
+          <item>Planes</item>
+          <item>Insects</item>
+          <item>Superman</item>
+          <item>Flags</item>
+        </list>
+      </section>
+    </section>
+    <section id="id1166109081542">
+      <title>Impact of Flight on Pets</title>
+      <section id="id1166110065791">
+        <title>The People’s Choices</title>
+        <para id="id1166107226492">Many people maintain pets and the following table shows the place of birds on the current pet list.</para>
+        <table id="id1166107260596" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Category</entry>
+                <entry>Percent</entry>
+              </row>
+              <row>
+                <entry>Dogs</entry>
+                <entry>42%</entry>
+              </row>
+              <row>
+                <entry>Cats</entry>
+                <entry>23%</entry>
+              </row>
+              <row>
+                <entry>Birds</entry>
+                <entry>14%</entry>
+              </row>
+              <row>
+                <entry>Turtles</entry>
+                <entry>4%</entry>
+              </row>
+              <row>
+                <entry>Others</entry>
+                <entry>17%</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id1166110067783">
+        <title>Unique Pet Collections</title>
+        <para id="id6848774">My unique flying pet is a butterfly.</para>
+        <para id="id1166107328967">Here is a hyperlink: <link url="http://en.wikipedia.org/wiki/Butterfly">http://en.wikipedia.org/wiki/Butterfly</link></para>
+        <figure id="id1166110205806">
+          <title>Hurricane Ike – Pet Butterfly</title>
+          <media id="id1166110205806_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-9554.jpg" id="id1166110205806__onlineimage" height="333" width="444"/>
+          </media>
+          <caption>Photo by: Kenneth Leroy Busbee</caption>
+        </figure>
+        <para id="id7064218">A butterfly’s thoughts:</para>
+        <para id="id8617443">
+          <quote id="id8617443_quote" display="block">One cannot entirely trust to flowers that grow in pots," thought the butterfly, "they have too much intercourse with men.<footnote id="id4525274">Andersen, Hans Christian; <emphasis effect="italics">The Ice-Maiden: and Other Tales, pg 169.</emphasis></footnote> I have added some more text to this quote to show how a block quote tag will wrap, indent and italicize the quoted material. Thus, you should not need any quote marks for the block tags.</quote>
+        </para>
+        <definition id="id1166110060397">
+          <term>Crazy</term>
+          <meaning id="oo-id1166107014859">People who keep butterflies as pets and talk to them.
+      </meaning>
+        </definition>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,159 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Creating a Connexions Module from a Word Document</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33262</md:content-id>
+  <md:title>Creating a Connexions Module from a Word Document</md:title>
+  <md:abstract>Basic instructions for building a Connexions module from a Word Document.  The use of the Edit, Links, Preview and Publish tabs are covered along with the initial Metadata as requested in the initial building process.</md:abstract>
+  <md:uuid>60844914-8e90-4cab-bb75-19b5f829d162</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://cnx.org/content/m33252/latest/" strength="2">An Example of a Connexions Module Created by a Word Document</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1169261078760">
+      <title>Initial Creation of a Module</title>
+      <para id="id1169261079891">The following series of slides moves you through the process of creating a Connexions module.</para>
+      <section id="id1169259954604">
+        <title>Step 1</title>
+        <figure id="id1169259960526">
+          <media id="id1169259960526_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-4465.jpg" id="id1169259960526__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Navigating to Your Workgroup</caption>
+        </figure>
+      </section>
+      <section id="id1169259939010">
+        <title>Step 2</title>
+        <para id="id1169259959905">When the “New module: License agreement” screen appears, read the information, check the box that you agree and move on to “Next”.</para>
+      </section>
+      <section id="id1169259979905">
+        <title>Step 3</title>
+        <figure id="id1169259955582">
+          <media id="id1169259955582_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-bfd9.jpg" id="id1169259955582__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Establish the new module’s “Metadata”</caption>
+        </figure>
+        <para id="id1169259933194">There are five (5) items within the metadata. Two of them will be established by copying and pasting the “Title” and “Summary” from your previously prepared spreadsheet (see the next slide). Most authors using these materials will leave the “Language” selection as English. Check one of the six (6) “Subject” boxes most appropriate to your module content. </para>
+        <para id="id1169259975843">The “Keywords” box allows you to enter additional words (one concept per line) that will be added to the “Index of Keywords and Terms” that would be automatically created when this module is included in a collection. Don’t add items that have already been tagged within the document as “CNXML Term” or “CNXML Definition (Term)”. In the example above the keyword “Butterfly” was added to this module.</para>
+        <para id="id1169261068820">Click on “Next” when ready.</para>
+        <para id="id1169259927024">
+          <figure id="id1169259944898">
+            <media id="id1169259944898_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics3-a61b.jpg" id="id1169259944898__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>Transferring the Title and Summary</caption>
+          </figure>
+        </para>
+      </section>
+      <section id="id1169259932462">
+        <title>Step 4</title>
+        <figure id="id1169259962238">
+          <media id="id1169259962238_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-8393.jpg" id="id1169259962238__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Seven Construction Tabs</caption>
+        </figure>
+        <para id="id1169259926841">A work area with seven (7) tabs will appear with the “Edit” tab active. The “Edit” tab allows you to build the module content. However, we are not going to type in our module content, but import it from a Microsoft Word document (previously prepared). Click on the “Import” button.</para>
+      </section>
+      <section id="id1169259924704">
+        <title>Step 5</title>
+        <figure id="id1169259956789">
+          <media id="id1169259956789_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-8c46.jpg" id="id1169259956789__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Browsing to Your File</caption>
+        </figure>
+        <para id="id1169261105855">Follow the steps to browse to your previously prepared Word document; then “Import” it.</para>
+      </section>
+      <section id="id1169259971318">
+        <title>Step 6</title>
+        <figure id="id1169259988982">
+          <media id="id1169259988982_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-f70f.jpg" id="id1169259988982__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Links Tab</caption>
+        </figure>
+        <para id="id1169259931711">We have basically completed the “Edit” and “Metadata” tabs. As a new author you will not normally use the “Files” or “Roles tabs”; thus we will not cover them within this training. Click on the “Links” tab.</para>
+        <para id="id1169259926024">Links are added to web pages but not to the printed <emphasis effect="bold">.PDF files</emphasis>. They appear in the upper right part of a module’s web page. You have seen and used links in other modules associated with this training. There are four items to establish with a link:</para>
+        <list id="id1169259928560" list-type="bulleted">
+          <item><emphasis effect="bold">Title</emphasis> – this is the name that will appear in the links box</item>
+          <item><emphasis effect="bold">Type</emphasis> – you select from Example, Prerequisite or Supplemental</item>
+          <item><emphasis effect="bold">Strength</emphasis> – you select from 3 being strongly related, 2 being related and 1 being weakly related</item>
+          <item><emphasis effect="bold">Source</emphasis> - can either be another Connexions module or collection (just enter its ID) or a Uniform Resource Locator (URL) better know as a web address. You might want to open another copy of your browser, navigate to the address, then copy and paste it into the URL box. This insures accuracy.</item>
+        </list>
+        <para id="id1169259925828">Click on the “Add” button when ready.</para>
+        <para id="id1169259921457">You may add additional links as desired.</para>
+      </section>
+      <section id="id1169259927233">
+        <title>Step 7</title>
+        <figure id="id1169259972552">
+          <media id="id1169259972552_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-96ab.jpg" id="id1169259972552__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Preview Process</caption>
+        </figure>
+        <para id="id1169259932188">The “Preview” allow us to view how our module will appear in both online and print modes. The online button will cause the module to appear as it will be shown. You can review it and test any links that you created. Hit the back button on your internet browser to return to the page and/or to return back to the Connexions module building page.</para>
+        <note id="id1169259924419" type="Note">If there is something wrong with the module content, you should open your original Word document make corrections, and then close it. Select the “Edit” tab and import your corrected file. Return to the “Preview” and confirm that the changes are what you wanted.</note>
+      </section>
+      <section id="id1169261821258">
+        <title>Step 8</title>
+        <figure id="id1169259963688">
+          <media id="id1169259963688_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-3784.jpg" id="id1169259963688__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Publish Tab</caption>
+        </figure>
+        <para id="id1169261125748">The publish process identifies a short description of the changes (enter “Initial Module” when you first create a module). When you hit the “Publish” button, the software will ask you to confirm “Yes” for you to publish your module. </para>
+      </section>
+      <section id="id1169261911930">
+        <title>Step 9</title>
+        <figure id="id1169259961421">
+          <media id="id1169259961421_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-5185.jpg" id="id1169259961421__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Module Completed and Built</caption>
+        </figure>
+        <para id="id1169259943689">Congratulations! Your module is now available for the world to use. I usually enter the module’s ID number into my spreadsheet that contains my titles and summaries.</para>
+      </section>
+    </section>
+    <section id="id1169259956626">
+      <title>Making Module Corrections</title>
+      <para id="id1169259962937">Once you have published your module, you will discover that you want to make some corrections or changes to your module. The process is simple. Navigate to your module.</para>
+      <para id="id1169259975447">
+        <figure id="id1169259937704">
+          <media id="id1169259937704_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10.jpg" id="id1169259937704__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Navigate to Your Module</caption>
+        </figure>
+      </para>
+      <para id="id1169261069738">
+        <figure id="id1169262555586">
+          <media id="id1169262555586_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11.jpg" id="id1169262555586__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Checkout Your Module</caption>
+        </figure>
+      </para>
+      <para id="id1169259972604">In order to modify the module, you must “Checkout” the module first. This makes a copy of your module available for you to modify. While you are modifying your materials, the previous version of the module is available to the Internet community. Your module will appear with the seven (7) construction tabs. You make changes as needed (this may include editing your Word document and importing it again using the “Edit” tab). When you are done with your changes you need to “Publish” your module in order to make the changes available to the Internet community.</para>
+    </section>
+    <section id="id1169259950591">
+      <title>What’s Next?</title>
+      <section id="id1169259927194">
+        <title>Reviewing the Published Module</title>
+        <para id="id1169259988452">The next module within this workshop contains the results of creating the Flying_Ver3.doc document as a Connexions module. You should review it to aid in your understanding of how the features and styles that we inserted into a Word document were converted upon being imported to a Connexions module.</para>
+      </section>
+      <section id="id1169259932724">
+        <title>Authoring Workshop Application</title>
+        <para id="id1169259921732">You should spend a few minutes publishing one of your previously prepared Word documents as a Connexions module.</para>
+      </section>
+    </section>
+  </content>
+</document>

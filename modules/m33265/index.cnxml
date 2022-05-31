@@ -1,0 +1,137 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Creating a Connexions Collection</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33265</md:content-id>
+  <md:title>Creating a Connexions Collection</md:title>
+  <md:abstract>Basic instructions for building a Connexions collection.  Understanding how the Glossary and the Index of Keywords and Terms are automatically created.</md:abstract>
+  <md:uuid>1e4395d7-6f34-46c0-add9-e87e8706cf2b</md:uuid>
+</metadata>
+<content>
+    <section id="id40595950">
+      <title>Initial Creation of a Collection</title>
+      <para id="id40396962">The following series of slides moves you through the process of creating a Connexions module.</para>
+      <section id="id40145028">
+        <title>Step 1</title>
+        <figure id="id48150752">
+          <media id="id48150752_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-c71c.jpg" id="id48150752__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Navigating to Your Workgroup</caption>
+        </figure>
+      </section>
+      <section id="id45532666">
+        <title>Step 2</title>
+        <para id="id42222393">When the “New collection: License agreement” screen appears, read the information, check the box that you agree and move on to “Next”.</para>
+      </section>
+      <section id="id40547832">
+        <title>Step 3</title>
+        <para id="id47174998">The next window established the “metadata” for the collection and you will copy and paste the title and summary information similar to the way you create a module. Complete the language, collection sub-type and subject items as appropriate.</para>
+        <note id="id43883647" type="Note">The first line of the spreadsheet contains the collection title and collection summary.</note>
+        <para id="id48910007">
+          <figure id="id45580119">
+            <media id="id45580119_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics2-ed5c.jpg" id="id45580119__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>Organizing Spreadsheet</caption>
+          </figure>
+        </para>
+      </section>
+      <section id="id40396689">
+        <title>Step 4</title>
+        <figure id="id48859463">
+          <media id="id48859463_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-3580.jpg" id="id48859463__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Initial Metadata - Six Construction Tabs</caption>
+        </figure>
+        <para id="id46336677">A work area with six (6) tabs will appear with the “Metadata” tab active. You need to at least scroll down and add one additional item to the metadata. </para>
+        <para id="id45681853">
+          <figure id="id45678838">
+            <media id="id45678838_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics4-159f.jpg" id="id45678838__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>Additional Metadata</caption>
+          </figure>
+        </para>
+        <para id="id41215596">The “Institution” information should be typed consistently by all authors belonging to the same institution. This item was discussed earlier in the module covering the member profile.</para>
+        <para id="id38155352">Enter your institution’s name and click on the “Save” button.</para>
+      </section>
+      <section id="id41360584">
+        <title>Step 5</title>
+        <figure id="id49760605">
+          <media id="id49760605_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-7aab.jpg" id="id49760605__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Content Tab</caption>
+        </figure>
+        <para id="id41305017">Once the Metadata changes are saved, select the “Contents” construction tab.</para>
+        <para id="id46334229">We need to identify or associate our modules to the collection. This is easily done by searching for our modules. The module numbers should be on your organizing spreadsheet. Simply enter the module ID number and select the “Search” button.</para>
+      </section>
+      <section id="id42120335">
+        <title>Step 6</title>
+        <figure id="id36207596">
+          <media id="id36207596_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-794d.jpg" id="id36207596__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Verify Module Name – Add selected content</caption>
+        </figure>
+        <para id="id38406152">Simply verify that you have the correct module. Look at its name and author. If correct, click on the “Add selected content” button.</para>
+      </section>
+      <section id="id36169750">
+        <title>Step 7</title>
+        <figure id="id40503106">
+          <media id="id40503106_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-851d.jpg" id="id40503106__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Module Added – Repeat the Process</caption>
+        </figure>
+        <para id="id45532992">Add the remaining modules from your organizing spreadsheet.</para>
+      </section>
+      <section id="id40501463">
+        <title>Step 7</title>
+        <para id="id42997818">Most new authors will not change the default data within the “Roles” or “Parameters”. Move on to the “Preview” tab. The collection will appear. You can review it and navigate with the collection to your heart’s content. However, when done, hit the back button on your internet browser to return to the page and/or to return back to the Connexions collection building page.</para>
+        <note id="id47018320" type="Note">If there is something wrong with the modules associated with the collection, you should return to the “Contents” tab and fix the problem by deleting or adding the correct modules. Return to the “Preview” and confirm that the changes are what you wanted.</note>
+      </section>
+      <section id="id34822539">
+        <title>Step 8</title>
+        <para id="id46622054">The publish process identifies a short description of the changes (enter “Initial Collection” when you first create the collection). When you hit the “Publish” button, the software will ask you to confirm “Yes” for you to publish your collection. </para>
+      </section>
+      <section id="id45950627">
+        <title>Step 9</title>
+        <figure id="id43745962">
+          <media id="id43745962_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-da7b.jpg" id="id43745962__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Module Completed and Built</caption>
+        </figure>
+        <para id="id35901191">Congratulations! Your collection is now available for the world to use. I usually enter the collection’s ID number into my spreadsheet that contains my titles and summaries.</para>
+      </section>
+    </section>
+    <section id="id43725916">
+      <title>Making Corrections to a Collection</title>
+      <para id="id37834094">Once you have published your collection, you will discover that you want to make some corrections or changes to your modules. Additionally, you might want to add or delete a module within the collection. The process is similar to making corrections to a module. You must navigate to your collection and check it out. </para>
+      <para id="id43932312">Your collection will appear with the six (6) construction tabs. You make changes as needed. When you are done with your changes you need to “Publish” your collection in order to make the changes available to the Internet community.</para>
+      <para id="id42501274">You should plan your changes to a collection. As you update individual modules, those corrected re-published modules are automatically available on the web version of your collection. The Internet version simply points to the “latest” version of a module. </para>
+      <para id="id43017393">As you make changes to a collection (add new modules, delete modules, etc.) you will need to re-publish the collection before the Internet users get a new collection’s <emphasis effect="bold">.PDF file</emphasis>. The newly published collection will include a revised “Glossary” and “Index of Keywords and Terms” (see the next item on reviewing a published collection).</para>
+    </section>
+    <section id="id43890341">
+      <title>What’s Next?</title>
+      <section id="id46956638">
+        <title>Reviewing the Published Collection</title>
+        <para id="id40584650">The printed .PDF file for the collection will have a “Glossary” and “Index of Keywords and Terms” that was automatically produced from the modules included in the collection. Navigate to this workshop’s collection and download the <emphasis effect="bold">.PDF file</emphasis>.</para>
+        <figure id="id47382440">
+          <media id="id47382440_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-1bde.jpg" id="id47382440__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>.PDF file – Download and View</caption>
+        </figure>
+        <para id="id40397038">Open the downloaded file and scroll down towards the end of the collection and review the “Glossary” and “Index of Keywords and Terms”. They should contain the few items that were tagged within the Flying_Ver3.doc document and the keyword that was added to that module’s metadata when it was created.</para>
+        <para id="id47226084">Authors wanting a glossary and index should now understand how to add the correct tags and keywords when building their modules. Then when they group their modules into a collection they will get the intended results within the glossary and index which is automatically produced.</para>
+      </section>
+      <section id="id49562843">
+        <title>Authoring Workshop Application</title>
+        <para id="id38262408">You will not have time to create a collection during an in-person workshop. However, you should understand the process and how tags for terms and metadata keywords will appear in your materials. </para>
+      </section>
+    </section>
+  </content>
+</document>

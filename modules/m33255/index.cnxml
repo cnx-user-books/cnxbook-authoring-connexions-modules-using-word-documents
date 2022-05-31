@@ -1,0 +1,129 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Preparing a Word Document for Creating a Connexions Module</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33255</md:content-id>
+  <md:title>Preparing a Word Document for Creating a Connexions Module</md:title>
+  <md:abstract>Detailed help on how to prepare a Word document for importing into a Connexions module.  Use of both Word styles and commonly used Connexions' CNXML styles are demonstrated.</md:abstract>
+  <md:uuid>acac0646-12db-45ec-b7f3-9efddcf9211c</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/help/authoring/wordimporter" strength="2">Using Microsoft Word to Create Connexions Modules </link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id41521232">
+      <title>Existing Documentation and Approach</title>
+      <para id="id41521238">A link is provided in the box to the right for the Connexions web site materials prepared for “Using Microsoft Word to Create a Connexions Modules”. However, the materials are not organized into a fashion that guides a new author from the perspective of how to create a Word document in order to build a Connexions module. Additionally, some information about the use of “templates” applies to an older version of Word (Word 97 or Word 2003). It says that the importer supports the new Microsoft Word 2007 (which creates documents using the .docx file extension), but I have had problems with importing these files as Connexions modules.</para>
+      <para id="id41521270">This module will take the approach of showing which Word features are preserved (kept) during importing and how you can add Connexions CNXML formatting styles to your Word document to import other useful effects. This will allow you to easily create fantastic OER materials using the convenience of uploading Word documents to create a basic Connexions module.</para>
+    </section>
+    <section id="id41521284">
+      <title>Typing Your Document Draft</title>
+      <para id="id41521291">For instructional purposes we have several versions of a Word document file showing its progression from initial typing to a finished product. The subject matter of the document is about flying. The first version shows raw typing that can be done quickly. The second version shows normal formatting that an author would do to a document.You should download the documents to see how they were created.</para>
+      <para id="id41521304">Click to download: <link document="m33255" resource="Flying_Ver1.doc">Flying_Ver1.doc</link></para>
+      <para id="id41521325">Click to download: <link document="m33255" resource="Flying_Ver2.doc">Flying_Ver2.doc</link></para>
+      <para id="id41521346">Many people will format their documents as they produce it. Thus, the two step approach will be done in only one document. These documents are in the .doc format which is the older Word 97-2003 format. I used the newer Micorsoft Word 2007 software that handles these documents in a “Compatibility Mode”. The following items are formatting effects that will be preserved (will convert) into your Connexisons module. They are listed in the order in which they appear in the Flying_Ver2.doc file.</para>
+      <section id="id41521373"><title>Preserved Effects</title><list id="id41521380" list-type="enumerated" number-style="arabic">
+		<item><emphasis effect="bold">Heading 1</emphasis> – highlight the text and select “Heading 1” from the “Styles” box on the ribbon. As one example see the first line of the document. </item>
+		<item><emphasis effect="bold">Heading 2</emphasis> – highlight the text and select “Heading 2” from the “Styles” box on the ribbon. As one example see the second line of the document.</item>
+		<item><emphasis effect="bold">Italic</emphasis> – highlight the text and select “<emphasis effect="italics">I</emphasis>” from the “Font” box on the ribbon. Look for the word jokes as the example</item>
+		<item><emphasis effect="bold">Bulleted List</emphasis> – highlight the list and select the “Bulleted List” item from the “Paragraph” box on the ribbon.</item>
+		<item><emphasis effect="bold">Bold</emphasis> – highlight the text and select “<emphasis effect="bold">B</emphasis>” from the “Font” box on the ribbon. Look for the word ficitious as the example</item>
+		<item><emphasis effect="bold">Numbered List</emphasis> – highlight the list and select the “Numbered List” item from the “Paragraph” box on the ribbon.</item>
+		<item><emphasis effect="bold">Table</emphasis> – use the “Insert Tab” selecting “Table” from the “Tables” box on the ribbon.</item>
+		<item><emphasis effect="bold">Hyperlink</emphasis> – use the “Insert Tab” selecting “Hyperlink” from the “Tables” box on the ribbon.</item>
+		<item><emphasis effect="bold">Picture</emphasis> – use the “Insert Tab” selecting “Picture” from the “Illustrations” box on the ribbon. This picture was sized to 320x240 pixels in order to better fix the web page when converted into a Connexions module. </item>
+		<item><emphasis effect="bold">Footnote</emphasis> – use the “References Tab” selecting “Insert Footnote” from the “Footnotes” box on the ribbon.</item>
+	</list>
+</section>
+      <section id="id41521571">
+        <title>Effects Not Preserved</title>
+        <para id="id41521577">Some items do not import that is that are not preserved during the conversion process to a Connexions module. These have been mentioned, but are provided again as a reminder:</para>
+        <list id="id41521584" list-type="bulleted">
+          <item>Do not use <code display="inline">cntl_Enter</code> as a break.</item>
+          <item>Do not use tabs.</item>
+        </list>
+      </section>
+      <section id="id41521614">
+        <title>Showing the Existing Styles</title>
+        <para id="id41521620">The following slide shows the default formatting styles available in Word.</para>
+        <para id="id41521629">
+          <figure id="id41521633">
+            <media id="id41521633_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics1-985e.jpg" id="id41521633__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>Word Formattng Styles</caption>
+          </figure>
+        </para>
+        <para id="id41521661">In order to add special formatting styles created by Connexions, we will need to acquire a document that has these special tags. To get the file:</para>
+        <para id="id41521668">Click to download: <link document="m33255" resource="Connexions-Document.doc">Connexions-Document.doc</link></para>
+        <para id="id41521689">After downloading, open the file and save it as (Save As): Flyer_Ver3.doc</para>
+        <para id="id41521698">By doing so, you will retain your original file intact for future use.</para>
+      </section>
+    </section>
+    <section id="id41521705">
+      <title>Converting Your Draft Document</title>
+      <para id="id41521711">The contents for the new Flyer_Ver3.doc file contain some basic text as provided by Connexions. This text is unimportant to us. Highlight the text and delete it.</para>
+      <para id="id41521722">
+        <figure id="id41521726">
+          <media id="id41521726_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-0a09.jpg" id="id41521726__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Connexions Beginning Document</caption>
+        </figure>
+      </para>
+      <section id="id41521754">
+        <title>Copy and Paste Your Draft Document</title>
+        <para id="id41521760">Now open your existing draft document: Flying_Ver2.doc, select the entire document and copy it into the Flying_Ver3.doc file. This new version of the document will have the Connexions CNXML formatting styles.</para>
+        <para id="id41521773">
+          <figure id="id41521777">
+            <media id="id41521777_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics3-98a1.jpg" id="id41521777__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>New Version with CNXML Formatting Styles</caption>
+          </figure>
+        </para>
+      </section>
+    </section>
+    <section id="id41521808">
+      <title>Adding Effects with CNXML Formatting Styles</title>
+      <para id="id41521814">You are now ready to add some additional formatting to your document that adds tags to inform Connexions as how it should convert your document when imported it into Connexions as a module. An example of highlighting some text and tagging it as a “term” is shown in the following slide.</para>
+      <para id="id41521830">
+        <figure id="id41521834">
+          <media id="id41521834_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-3c63.jpg" id="id41521834__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Applying a CNXML formatting style</caption>
+        </figure>
+      </para>
+      <para id="id41521862">The following list of CNXML tags are listed in the order in which they appear in the Flying_Ver3.doc file. You can download the document and review the tags.</para>
+      <para id="id41521875">Click to download: <link document="m33255" resource="Flying_Ver3.doc">Flying_Ver3.doc</link></para>
+      <section id="id41521896"><title>List of CNXML Formatting Styles</title><list id="id41521903" list-type="enumerated" number-style="arabic">
+		<item><emphasis effect="bold">CNXML Quote (Inline)</emphasis> – If you have text as a quote you should remove your quote marks and highlight the text, then apply the style. The conversion automatically adds quote marks. </item>
+		<item><emphasis effect="bold">CNXML Term</emphasis> – Taging a word as a term will highlight it upon conversion. IN our example we tagged “Hades”. When the module is included in a Connexions collection the term will automatically be added to the “Index of Keywords and Terms” at the end of the collection.</item>
+		<item><emphasis effect="bold">CNXML Note</emphasis> – Highlighing text and applying the tag will make the text appear in a separate note box upon conversion. Thus, you will need to remove the wording “Note: “ from your document.</item>
+		<item><emphasis effect="bold">CNXML Figure Title</emphasis> – You can add a line of text just before a picture, highlight that text and apply this tag to create a title above your picture.</item>
+		<item><emphasis effect="bold">CNXML Figure Caption</emphasis> - You can add a line of text just after a picture, highlight that text and apply this tag to create additional comments below your picture.</item>
+		<item><emphasis effect="bold">CNXML Quote (Block)</emphasis> – Highlight the text and apply the tag. No need to use quote marks, the conversion will indent and italicize the quote.</item>
+		<item><emphasis effect="bold">CNXML Definition (Term)</emphasis> – The term is usually placed on a line by itself with the definition on the following line(s). Like other formatting styles you highlight it and tag it. When the module is included in a Connexions collection the term will automatically be added to the “Index of Keywords and Terms” at the end of the collection.</item>
+		<item><emphasis effect="bold">CNXML Definition (Meaning)</emphasis> – The meaning of the term is added to the line(s) following the term. Like other formatting styles you highlight it and tag it. When the module is included in a Connexions collection the term with its definition will automatically be added to the “Glossary” at the end of the collection.</item>
+	</list>
+</section>
+    </section>
+    <section id="id41522426">
+      <title>What’s Next?</title>
+      <section id="id41522433">
+        <title>Additional Information</title>
+        <para id="id41522440">Once you start creating Connexions modules, you will not go through the process of converting your draft document by copying it’s content and pasting it into a Connexions document shell that has the Connexions CNXML tags. You will simply open the original downloaded file that contains the tags (Connexions-Document.doc) and save it as a new document (you must keep it as a .doc file – that is the older Word 97-2003 format). Highlight and delete the existing sample text. Then start writing your module materials. As you build the document you can add any of the formatting styles (both those preserved from normal Word usage and those CNXML tags that will be available to you).</para>
+      </section>
+      <section id="id41522476">
+        <title>Authoring Workshop Application</title>
+        <para id="id41522483">You should spend a few minutes getting one of your prepared “knowledge chunks” ready for conversion into a Connexions module. At a minimum, use at least two of the preserved effects and at least two of the CNXML tags. </para>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,85 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Post Connexions Authoring Workshop Activities</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33264</md:content-id>
+  <md:title>Post Connexions Authoring Workshop Activities</md:title>
+  <md:abstract>Coverage of a variety of post workshop items including: rating modules, an affiliation lens, additional study materials and seeking help.</md:abstract>
+  <md:uuid>2fbb920e-5ad0-4455-9d93-e418f3d7c49e</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://cnx.org/featureContent" strength="3">Connexions - Featured Content</link>
+      <link url="http://cnx.org/content/m19804/latest/" strength="3">Understanding High Performance Computing</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.org/help/authoring/wordimporter" strength="3">Using Microsoft Word to Create Connexions Modules</link>
+      <link url="http://cnx.org/help/authoring" strength="3">Connexions - Authoring Content</link>
+      <link url="http://cnx.org/content/col10151/latest/" strength="2">Connexions Tutorial and Reference</link>
+      <link url="http://cnx.org/lenses/cnxorg/documentation" strength="1">Connexions Documentation</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id12574852">
+      <title>Post Authoring Workshop Activities</title>
+      <section id="id4541838">
+        <title>Build Modules and Collections</title>
+        <para id="id5380946">Some authors will only build a few unrelated modules and never attempt to build a collection (a group of modules organized and delivered as a unit). Others will plan a complete textbook with dozens of modules organized into chapters. But all should:</para>
+        <list id="id12579136" list-type="bulleted">
+          <item>Spend a few hours over the next few weeks and building at least four (4) modules.</item>
+          <item>Consider building a simple collection.</item>
+        </list>
+        <para id="id12563387">You might start the process by planning your modules by outlining them. You can use the spreadsheet method used earlier in this workshop to establish your module titles and summaries. Whatever you do, do something each week. Plan a few hours to work on becoming a Connexions author.</para>
+      </section>
+      <section id="id3805787">
+        <title>Provide Feedback</title>
+        <para id="id11926136">Anyone can email the author of Connexions materials and provide feedback. As a new author, you should not take offense if someone emails you and describes a problem with your content, spelling, broken links, etc. Take it in stride and use the feedback to improve your materials.</para>
+      </section>
+      <section id="id12298088">
+        <title>Ask for Feedback</title>
+        <para id="id4229096">As a new author you might want to contact a peer within your field of expertise and ask them to review your materials. Another pair of trusted eyes is great at insuring that your Connexions modules are viewed by others as quality modules.</para>
+      </section>
+      <section id="id4091815">
+        <title>Provide Module Ratings</title>
+        <para id="id12301540">When you are logged into your Connexions account, you can use the five (5) star rating system provided within Connexions to rate the modules of any authors.</para>
+        <para id="id3464064">
+          <figure id="id3807729">
+            <media id="id3807729_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics1-d93b.jpg" id="id3807729__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>Rating Modules</caption>
+          </figure>
+        </para>
+        <para id="id4409253">As your first experience at rating modules, we desire you to rate each of the seven (7) modules that were used in this workshop. <emphasis effect="bold">Please go do it soon – maybe even today.</emphasis></para>
+      </section>
+      <section id="id5038517">
+        <title>Affiliation Lens</title>
+        <para id="id5117828">An “affiliation lens” within Connexions is a way to identify modules and collections identified as having the author’s material affiliated with that organization, group or project. You can select the “Lenses” tab from the Connexions home page to view the lenses that exist.</para>
+        <para id="id4652873">You should scroll down the “Affiliation lenses” category and discover if your institution has an affiliation lens. If it does have a lens, you should <emphasis effect="bold">contact the person at your institution that manages the lens</emphasis> and inform them of the collections and/or independent modules (those not in a collection) by providing them the collection ID numbers (like: col10621) and module ID numbers (like: m19171). They can easily add your collections and modules to the lens.</para>
+      </section>
+      <section id="id4491596">
+        <title>Additional Study</title>
+        <para id="id4079193">Within the link box (upper right corner of the module) there are several links provided.</para>
+        <list id="id3686484" list-type="bulleted">
+          <item>Example – Links in this grouping provide access to several existing collections or modules. You can review them for ideas of how others are using and organizing Connexions materials.</item>
+          <item>Supplemental – Links in the grouping provide access to a variety of helps, modules and collections that cover being an author within Connexions.</item>
+        </list>
+        <note id="id12932637" type="Note">Within the workshop we covered 8 CNXML tags. In the link: “Using Microsoft Word to Create Connexions Modules” there are an additional 9 CNXML tags that are covered.</note>
+      </section>
+      <section id="id5118265">
+        <title>Join the Movement</title>
+        <para id="id4849594">If your organization has a discussion list or blog concerning Open Educational Resources (OER) or OpenCourseWare (OCW), please join in those activities.</para>
+      </section>
+    </section>
+    <section id="id12931761">
+      <title>Authoring Workshop Application</title>
+      <list id="id3445440" list-type="bulleted">
+        <item>Ask any questions</item>
+        <item>Rate the workshop modules</item>
+      </list>
+    </section>
+  </content>
+</document>
